@@ -954,6 +954,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love javascript! :cat:
 - GitHub: [Hoang Ha](https://github.com/halink0803)
 
+### Name: [Himanshu Jha](https://github.com/jhah7)
+- Place: Mehsana, Gujarat, India
+- Bio: DevOps Engineer
+- GitHub: [jhah7](https://github.com/jhah7)
+
 #### Name: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
 - Place: Hafnarfjörður, Iceland
 - Bio: Computer Scientist
